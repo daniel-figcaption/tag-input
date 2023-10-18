@@ -2,9 +2,11 @@
 
 Tags are pieces of text that can be used as keywords for online content such as blog posts.
 
-[🔗 Link to online demo](https://daniel-figcaption-tag-input.netlify.app/)
-
 This is a React component that provides a user-friendly way to input tags.
+
+![Demo of TagInput component](https://daniel-figcaption-tag-input.netlify.app/taginput-demo.gif "Demo")
+
+[🔗 Link to online demo](https://daniel-figcaption-tag-input.netlify.app/)
 
 ### Adding tags
 The user can type in a new tag and then add it by either typing a comma (`,`) or hitting the `Enter` key.
