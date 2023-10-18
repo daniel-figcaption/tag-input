@@ -123,7 +123,7 @@ const TagInput: React.FC<{
     >
       <ul className="flex items-center flex-wrap gap-1 sm:gap-1.5">
         {tags.map((tag, i) => {
-          const isLastTag = i == tags.length - 1;
+          const isLastTag = i === tags.length - 1;
           return (
             /*
              * key prop:
