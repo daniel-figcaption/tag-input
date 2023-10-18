@@ -2,6 +2,8 @@
 
 Tags are pieces of text that can be used as keywords for online content such as blog posts.
 
+[🔗 Link to online demo](https://daniel-figcaption-tag-input.netlify.app/)
+
 This is a React component that provides a user-friendly way to input tags.
 
 ### Adding tags
