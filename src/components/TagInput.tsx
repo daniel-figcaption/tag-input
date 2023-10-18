@@ -163,7 +163,7 @@ const TagInput: React.FC<{
           <input
             type="text"
             id={htmlId}
-            className="absolute z-30 inset-0 bg-transparent outline-none"
+            className="absolute z-30 inset-0 w-full h-full bg-transparent outline-none"
             value={inputText}
             onChange={handleInputChange}
             onKeyDown={handleKeyDown}
@@ -244,6 +244,7 @@ const TagItem: React.FC<{
             group-hover:text-red-950 group-focus:text-red-950 
             group-hover:shadow-red-500 group-focus:shadow-red-500
             group-hover:outline-red-600 group-focus:outline-red-600
+            group-active:bg-red-400
           `}
         />
         <svg
